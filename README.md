@@ -1,11 +1,10 @@
 # Criando um APP simples de cadastro de séries em .NET
 
-*Criando um APP simples de cadastro de séries em .NET,  Linguagens: C#  e  Ferramenta Código Visual Studio. 
-Desafio  como criar um algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos, o principal paradigma de programação é a mais utilizada no mercado.
+*Criando um APP simples de cadastro de séries em .NET framework, linguagens C# e Ferramenta Código Visual Studio Code. 
+Desafio  foi criar um algoritmo simples de cadastro de séries para praticar os conhecimentos de orientação a objetos, o principal paradigma de programação e é a mais utilizada no mercado.
 
 #Linguagens:
 
-.NET
 C#
 
 #Ferramenta:
@@ -14,5 +13,6 @@ C#
 
 #Bootcamp:
 
-*Banco Carrefour Woman Developer !(https://hermes.digitalinnovation.one/tracks/dcc852b7-94cc-43ce-bb35-43ad9269c7e6.png:)
+*Banco Carrefour Woman Developer ![image](https://user-images.githubusercontent.com/101484328/162367514-8e1fb503-fc3f-4b82-b93d-e1d9f0ed5f1a.png)
+
 

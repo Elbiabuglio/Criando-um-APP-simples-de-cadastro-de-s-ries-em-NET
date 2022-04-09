@@ -9,7 +9,7 @@ C#
 
 #Ferramenta:
 
-*Visual Studio Code 5.0
+*.NET  Core
 
 #Bootcamp:
 
